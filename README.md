@@ -7,9 +7,8 @@ Replace the Project Title
 ### project is to implement git and github skill 
 Describe what your project is about and what it does
 
-### Files used
+### 1) used gitignore to ignore csv file and bikeshare file for code 
 Include the files used
 
-### Credits
+### Credits:stackoverflow
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
