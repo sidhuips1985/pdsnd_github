@@ -1,10 +1,10 @@
-### Date created
+### 12/30/2020
 Include the date you created this project and README file.
 
-### Project Title
+### Git pythom Project 
 Replace the Project Title
 
-### Description
+### project is to implement git and github skill 
 Describe what your project is about and what it does
 
 ### Files used
