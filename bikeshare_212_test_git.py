@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 import os
-
+os.chdir("C:/Users/is8773/bikeshare")
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -266,6 +266,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
+        raw_data(df)
         
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
